@@ -1,0 +1,12 @@
+{
+  "name": "kemra102-centosrepo",
+  "version": "1.0.0",
+  "author": "Danny Roberts",
+  "summary": "Configure Yum repos for CentOS.",
+  "license": "BSD-2-Clause",
+  "source": "https://github.com/kemra102/puppet-centosrepo",
+  "project_page": "https://github.com/kemra102/puppet-centosrepo",
+  "issues_url": "https://github.com/kemra102/puppet-centosrepo/issues",
+  "dependencies": [],
+  "data_provider": "hiera"
+}

@@ -1,0 +1,25 @@
+## MAC OS
+.DS_Store
+
+## TEXTMATE
+*.tmproj
+tmtags
+
+## EMACS
+*~
+\#*
+.\#*
+
+## VIM
+*.swp
+tags
+
+## puppet module build
+pkg
+
+## testing
+.bundle/
+spec/fixtures
+
+## vagrant
+.vagrant/
